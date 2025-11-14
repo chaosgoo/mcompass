@@ -3,7 +3,7 @@ name: Build Firmware Workflow on main
 on:
   push:
     branches:
-      - main
+      - main 
 
 jobs:
   build:
